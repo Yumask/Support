@@ -1,10 +1,10 @@
 Privacy policy
 
-This privacy policy ("Policy") describes how Mobile Application Developer ("Mobile Application Developer", "we", "us" or "our") collects, protects and uses the personally identifiable information ("Personal Information") you ("User", "you" or "your") may provide in the Mony mobile application and any of its products or services (collectively, "Mobile Application" or "Services"). It also describes the choices available to you regarding our use of your Personal Information and how you can access and update this information. This Policy does not apply to the practices of companies that we do not own or control, or to individuals that we do not employ or manage.
+This privacy policy describes how the Mobile Application Mony collects, protects and uses the personally identifiable information you user may provide in the Mony mobile application and any of its products or services. It also describes the choices available to you regarding our use of your Personal Information and how you can access and update this information. This Policy does not apply to the practices of companies that we do not own or control, or to individuals that we do not employ or manage.
 
 Collection of personal information
 
-We receive and store any information you knowingly provide to us when you fill any online forms in the Mobile Application. You can choose not to provide us with certain information, but then you may not be able to take advantage of some of the Mobile Application's features. Users who are uncertain about what information is mandatory are welcome to contact us.
+We do not receive and store any personal information.
 
 Collection of non-personal information
 
@@ -14,17 +14,6 @@ Use of collected information
 
 Any of the information we collect from you may be used to personalize your experience; improve our Mobile Application; improve customer service and respond to queries and emails of our customers; run and operate our Mobile Application and Services. Non-Personal Information collected is used only to identify potential cases of abuse and establish statistical information regarding Mobile Application traffic and usage. This statistical information is not otherwise aggregated in such a way that would identify any particular user of the system.
 
-Privacy of children
-
-We do not knowingly collect any Personal Information from children under the age of 13. If you are under the age of 13, please do not submit any Personal Information through our Mobile Application or Service. We encourage parents and legal guardians to monitor their children's Internet usage and to help enforce this Policy by instructing their children never to provide Personal Information through our Mobile Application or Service without their permission. If you have reason to believe that a child under the age of 13 has provided Personal Information to us through our Mobile Application or Service, please contact us. You must also be old enough to consent to the processing of your personal data in your country (in some countries we may allow your parent or guardian to do so on your behalf).
-
-Links to other mobile applications
-
-Our Mobile Application contains links to other mobile applications that are not owned or controlled by us. Please be aware that we are not responsible for the privacy practices of such other mobile applications or third-parties. We encourage you to be aware when you leave our Mobile Application and to read the privacy statements of each and every mobile application that may collect Personal Information.
-
-Information security
-
-We secure information you provide on computer servers in a controlled, secure environment, protected from unauthorized access, use, or disclosure. We maintain reasonable administrative, technical, and physical safeguards in an effort to protect against unauthorized access, use, modification, and disclosure of Personal Information in its control and custody. However, no data transmission over the Internet or wireless network can be guaranteed. Therefore, while we strive to protect your Personal Information, you acknowledge that (i) there are security and privacy limitations of the Internet which are beyond our control; (ii) the security, integrity, and privacy of any and all information and data exchanged between you and our Mobile Application cannot be guaranteed; and (iii) any such information and data may be viewed or tampered with in transit by a third-party, despite best efforts.
 
 Data breach
 
@@ -40,4 +29,4 @@ You acknowledge that you have read this Policy and agree to all its terms and co
 
 Contacting us
 
-If you have any problem or questions about this Policy, please the developer: tanimoto.yumi@gmail.com
+If you have any problem or questions about this Policy, please contact the developer: tanimoto.yumi@gmail.com
